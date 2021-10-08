@@ -1,0 +1,49 @@
+.pred { background-color: red;
+    color: #rgb(255, 128, 246);
+    color: #f79eff;
+
+}
+
+.colorcute {
+  font-size: 2em;
+  color: #960000;
+  border: thin solid pink;
+  padding: 1em;
+  margin: 1em;
+  border-radius: 2em;
+}
+
+.DesImg {
+  font-size: 1em;
+  color: #008e2b;
+  border: thin solid black;
+  padding: 1em;
+  margin: 1em;
+  border-radius: 2em;
+}
+
+table {
+  border: thin solid black;
+  color: #e6a424;
+
+}
+
+#MainBanner {
+  border: thin solid black;
+  background-image: url(https://s03.s3c.es/imag/_v0/700x301/7/7/1/10000-dolares-billete.jpg);
+  background-size: cover;
+}
+
+#MainBanner h1 {
+  color: #ffa4e3;
+  padding-left: 4em;
+}
+
+#MainBanner > p{
+  margin: 1em;
+  color: blue;
+  }
+
+#MainBanner a {
+  float: right;
+}
